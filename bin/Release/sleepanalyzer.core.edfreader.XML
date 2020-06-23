@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>sleepanalyzer.core.edfreader</name></assembly>
+<members>
+<member name="T:sleepanalyzer.core.edfreader.XMLAnnotationsExtension">
+ <summary>
+     This extension is designned to read annotations contained outside of an EDF file
+     but specifically targets the XML annotations format used by http://sleepdata.org
+</summary>
+</member>
+</members>
+</doc>

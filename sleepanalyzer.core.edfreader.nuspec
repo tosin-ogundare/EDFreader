@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>1</id>
+    <version>0.0.1-alpha</version>
+    <title>Simple EDFReader</title>
+    <authors>Tosin Ogundare</authors>
+    <owners>Tosin Ogundare</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/tosin-ogundare/EDFreader</projectUrl>
+    <description>EDF reader in F# for .NET components.</description>
+    <copyright>Copyright 2020</copyright>
+  </metadata>
+</package>

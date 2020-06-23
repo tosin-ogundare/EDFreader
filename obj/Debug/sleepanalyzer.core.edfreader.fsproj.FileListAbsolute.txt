@@ -1,0 +1,24 @@
+C:\Users\oluwatosin_ogundare\Documents\Visual Studio 2017\Projects\tosin.research\sleepanalyzer.core.edfreader\bin\Debug\sleepanalyzer.core.edfreader.XML
+C:\Users\oluwatosin_ogundare\Documents\Visual Studio 2017\Projects\tosin.research\sleepanalyzer.core.edfreader\bin\Debug\sleepanalyzer.core.edfreader.dll
+C:\Users\oluwatosin_ogundare\Documents\Visual Studio 2017\Projects\tosin.research\sleepanalyzer.core.edfreader\bin\Debug\sleepanalyzer.core.edfreader.pdb
+C:\Users\oluwatosin_ogundare\Documents\Visual Studio 2017\Projects\tosin.research\sleepanalyzer.core.edfreader\bin\Debug\FSharp.Core.dll
+C:\Users\oluwatosin_ogundare\Documents\Visual Studio 2017\Projects\tosin.research\sleepanalyzer.core.edfreader\bin\Debug\System.ValueTuple.dll
+C:\Users\oluwatosin_ogundare\Documents\Visual Studio 2017\Projects\tosin.research\sleepanalyzer.core.edfreader\bin\Debug\FSharp.Core.xml
+C:\Users\oluwatosin_ogundare\Documents\Visual Studio 2017\Projects\tosin.research\sleepanalyzer.core.edfreader\obj\Debug\sleepanalyzer.core.edfreader.dll
+C:\Users\oluwatosin_ogundare\Documents\Visual Studio 2017\Projects\tosin.research\sleepanalyzer.core.edfreader\obj\Debug\sleepanalyzer.core.edfreader.pdb
+C:\tsharp.code\Analyzer\tosin.research\sleepanalyzer.core.edfreader\bin\Debug\sleepanalyzer.core.edfreader.XML
+C:\tsharp.code\Analyzer\tosin.research\sleepanalyzer.core.edfreader\bin\Debug\sleepanalyzer.core.edfreader.dll
+C:\tsharp.code\Analyzer\tosin.research\sleepanalyzer.core.edfreader\bin\Debug\sleepanalyzer.core.edfreader.pdb
+C:\tsharp.code\Analyzer\tosin.research\sleepanalyzer.core.edfreader\bin\Debug\FSharp.Core.dll
+C:\tsharp.code\Analyzer\tosin.research\sleepanalyzer.core.edfreader\bin\Debug\System.ValueTuple.dll
+C:\tsharp.code\Analyzer\tosin.research\sleepanalyzer.core.edfreader\bin\Debug\FSharp.Core.xml
+C:\tsharp.code\Analyzer\tosin.research\sleepanalyzer.core.edfreader\obj\Debug\sleepanalyzer.core.edfreader.dll
+C:\tsharp.code\Analyzer\tosin.research\sleepanalyzer.core.edfreader\obj\Debug\sleepanalyzer.core.edfreader.pdb
+C:\tsharp.code\EDFReaderRepo\sleepanalyzer.core.edfreader\bin\Debug\sleepanalyzer.core.edfreader.XML
+C:\tsharp.code\EDFReaderRepo\sleepanalyzer.core.edfreader\bin\Debug\sleepanalyzer.core.edfreader.dll
+C:\tsharp.code\EDFReaderRepo\sleepanalyzer.core.edfreader\bin\Debug\sleepanalyzer.core.edfreader.pdb
+C:\tsharp.code\EDFReaderRepo\sleepanalyzer.core.edfreader\bin\Debug\FSharp.Core.dll
+C:\tsharp.code\EDFReaderRepo\sleepanalyzer.core.edfreader\bin\Debug\Newtonsoft.Json.dll
+C:\tsharp.code\EDFReaderRepo\sleepanalyzer.core.edfreader\bin\Debug\FSharp.Core.xml
+C:\tsharp.code\EDFReaderRepo\sleepanalyzer.core.edfreader\obj\Debug\sleepanalyzer.core.edfreader.dll
+C:\tsharp.code\EDFReaderRepo\sleepanalyzer.core.edfreader\obj\Debug\sleepanalyzer.core.edfreader.pdb

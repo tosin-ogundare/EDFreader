@@ -1,8 +1,8 @@
-C:\Users\oluwatosin_ogundare\Documents\Visual Studio 2017\Projects\tosin.research\sleepanalyzer.core.edfreader\bin\Release\sleepanalyzer.core.edfreader.XML
-C:\Users\oluwatosin_ogundare\Documents\Visual Studio 2017\Projects\tosin.research\sleepanalyzer.core.edfreader\bin\Release\sleepanalyzer.core.edfreader.dll
-C:\Users\oluwatosin_ogundare\Documents\Visual Studio 2017\Projects\tosin.research\sleepanalyzer.core.edfreader\bin\Release\sleepanalyzer.core.edfreader.pdb
-C:\Users\oluwatosin_ogundare\Documents\Visual Studio 2017\Projects\tosin.research\sleepanalyzer.core.edfreader\bin\Release\FSharp.Core.dll
-C:\Users\oluwatosin_ogundare\Documents\Visual Studio 2017\Projects\tosin.research\sleepanalyzer.core.edfreader\bin\Release\System.ValueTuple.dll
-C:\Users\oluwatosin_ogundare\Documents\Visual Studio 2017\Projects\tosin.research\sleepanalyzer.core.edfreader\bin\Release\FSharp.Core.xml
-C:\Users\oluwatosin_ogundare\Documents\Visual Studio 2017\Projects\tosin.research\sleepanalyzer.core.edfreader\obj\Release\sleepanalyzer.core.edfreader.dll
-C:\Users\oluwatosin_ogundare\Documents\Visual Studio 2017\Projects\tosin.research\sleepanalyzer.core.edfreader\obj\Release\sleepanalyzer.core.edfreader.pdb
+C:\tsharp.code\EDFReaderRepo\sleepanalyzer.core.edfreader\bin\Release\sleepanalyzer.core.edfreader.XML
+C:\tsharp.code\EDFReaderRepo\sleepanalyzer.core.edfreader\bin\Release\sleepanalyzer.core.edfreader.dll
+C:\tsharp.code\EDFReaderRepo\sleepanalyzer.core.edfreader\bin\Release\sleepanalyzer.core.edfreader.pdb
+C:\tsharp.code\EDFReaderRepo\sleepanalyzer.core.edfreader\bin\Release\FSharp.Core.dll
+C:\tsharp.code\EDFReaderRepo\sleepanalyzer.core.edfreader\bin\Release\Newtonsoft.Json.dll
+C:\tsharp.code\EDFReaderRepo\sleepanalyzer.core.edfreader\bin\Release\FSharp.Core.xml
+C:\tsharp.code\EDFReaderRepo\sleepanalyzer.core.edfreader\obj\Release\sleepanalyzer.core.edfreader.dll
+C:\tsharp.code\EDFReaderRepo\sleepanalyzer.core.edfreader\obj\Release\sleepanalyzer.core.edfreader.pdb

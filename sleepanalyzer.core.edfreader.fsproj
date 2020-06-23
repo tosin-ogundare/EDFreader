@@ -80,6 +80,7 @@
     <Compile Include="EdfAnnotation.fs" />
     <Compile Include="EdfHeader.fs" />
     <Compile Include="BaseEdfReader.fs" />
+    <None Include="sleepanalyzer.core.edfreader.nuspec" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />

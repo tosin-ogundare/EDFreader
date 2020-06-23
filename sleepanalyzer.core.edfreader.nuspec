@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package >
   <metadata>
-    <id>1</id>
-    <version>0.0.1-alpha</version>
+    <id>sleepanalyzer.edfreader</id>
+    <version>1.0.1</version>
     <title>Simple EDFReader</title>
     <authors>Tosin Ogundare</authors>
     <owners>Tosin Ogundare</owners>
